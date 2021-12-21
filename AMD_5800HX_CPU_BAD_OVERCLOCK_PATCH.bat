@@ -4,7 +4,6 @@ regedit /s C:\power_unlock.reg
 powercfg /import C:\NYARLKO.POW
 for /f "tokens=4" %%f in ('powercfg -list ^| findstr /C:"NO_OVERCLOCK"') do set GUID=%%f 
 powercfg /S %GUID%
-schtasks /delete /tn * /f
 sc stop “SysMain”
 sc config “SysMain” start=disabled
 netsh interface tcp set global autotuninglevel=highlyrestricted
