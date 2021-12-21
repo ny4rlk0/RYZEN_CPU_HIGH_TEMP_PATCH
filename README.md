@@ -8,4 +8,5 @@
   </br> Edit your Max performance plan in advanced settings and change Proccessor Power Managment > Proccessor Performance boost mode > Set both of them DISABLED.
   </br> APPLY and EXIT.
   </br> NOW your cpu should heat less. (Really tho i shouldn't even bother with this. Acer should patch this instead of burning our brand new computer at max cpu temp.)
+  </br> Are manufacturers intentionally nerfing the AMD laptops lifetime? 
   </br> LOL they even enabled this cpu boost on power saving mode. Is this joke ? Do i need overclock in power saving mode?
