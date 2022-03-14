@@ -1,4 +1,4 @@
-# RYZEN_5800HX_HIGH_TEMP_PATCH
+# RYZEN_5800H_HIGH_TEMP_PATCH
   </br> Extract everything on C drive. </br> Run PATCH with right click Admin. </br> Boom Patched. (10-20 C temp difference in games. With same performance.)
   </br> Again i am warning you this is specially for ACER Nitro 5 AN-51545. It might brick any other computer. </br> (Or it might run normally. Idk, i haven't be able to test any other computer.)
 
