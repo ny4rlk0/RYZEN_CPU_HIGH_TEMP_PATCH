@@ -1,7 +1,7 @@
 # Auto_CPU_HIGH_TEMP_PATCH
   </br> Extract everything on C drive. </br> Run PATCH with right click Admin. </br> Boom Patched. (10-20 C temp difference in games. With same performance.)
 
-# Manuall Patch.
+# Manual_Patch
   </br> Double click and add reg file.
   </br> Set active to your max performance plan.
   </br> Edit your Max performance plan in advanced settings and change Proccessor Power Managment > Proccessor Performance boost mode > Set both of them DISABLED.
@@ -10,7 +10,7 @@
   </br> Are manufacturers intentionally nerfing the AMD laptops lifetime? 
   </br> LOL they even enabled this cpu boost on power saving mode. Is this joke ? Do i need overclock in power saving mode?
   
-# TR Elle yamalama
+# TR_Elle_yamalama
   </br> Buradaki power_unlock.reg dosyasını indirerek uygulayın. Daha sonra en çok tercih ettiğiniz güç planını seçin.
   </br> Gelişmiş güç ayarları > işlemci güç yönetimi > işlemci performans arttırma modu.
   </br> Pilde > devre dışı.
